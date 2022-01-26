@@ -1,0 +1,16 @@
+C:\Users\Ayttekao\Documents\GitHub\Numerical-methods\NumMeth1\NumMeth1\bin\Debug\net5.0\NumMeth1.exe
+C:\Users\Ayttekao\Documents\GitHub\Numerical-methods\NumMeth1\NumMeth1\bin\Debug\net5.0\NumMeth1.deps.json
+C:\Users\Ayttekao\Documents\GitHub\Numerical-methods\NumMeth1\NumMeth1\bin\Debug\net5.0\NumMeth1.runtimeconfig.json
+C:\Users\Ayttekao\Documents\GitHub\Numerical-methods\NumMeth1\NumMeth1\bin\Debug\net5.0\NumMeth1.runtimeconfig.dev.json
+C:\Users\Ayttekao\Documents\GitHub\Numerical-methods\NumMeth1\NumMeth1\bin\Debug\net5.0\NumMeth1.dll
+C:\Users\Ayttekao\Documents\GitHub\Numerical-methods\NumMeth1\NumMeth1\bin\Debug\net5.0\ref\NumMeth1.dll
+C:\Users\Ayttekao\Documents\GitHub\Numerical-methods\NumMeth1\NumMeth1\bin\Debug\net5.0\NumMeth1.pdb
+C:\Users\Ayttekao\Documents\GitHub\Numerical-methods\NumMeth1\NumMeth1\obj\Debug\net5.0\NumMeth1.csproj.AssemblyReference.cache
+C:\Users\Ayttekao\Documents\GitHub\Numerical-methods\NumMeth1\NumMeth1\obj\Debug\net5.0\NumMeth1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayttekao\Documents\GitHub\Numerical-methods\NumMeth1\NumMeth1\obj\Debug\net5.0\NumMeth1.AssemblyInfoInputs.cache
+C:\Users\Ayttekao\Documents\GitHub\Numerical-methods\NumMeth1\NumMeth1\obj\Debug\net5.0\NumMeth1.AssemblyInfo.cs
+C:\Users\Ayttekao\Documents\GitHub\Numerical-methods\NumMeth1\NumMeth1\obj\Debug\net5.0\NumMeth1.csproj.CoreCompileInputs.cache
+C:\Users\Ayttekao\Documents\GitHub\Numerical-methods\NumMeth1\NumMeth1\obj\Debug\net5.0\NumMeth1.dll
+C:\Users\Ayttekao\Documents\GitHub\Numerical-methods\NumMeth1\NumMeth1\obj\Debug\net5.0\ref\NumMeth1.dll
+C:\Users\Ayttekao\Documents\GitHub\Numerical-methods\NumMeth1\NumMeth1\obj\Debug\net5.0\NumMeth1.pdb
+C:\Users\Ayttekao\Documents\GitHub\Numerical-methods\NumMeth1\NumMeth1\obj\Debug\net5.0\NumMeth1.genruntimeconfig.cache

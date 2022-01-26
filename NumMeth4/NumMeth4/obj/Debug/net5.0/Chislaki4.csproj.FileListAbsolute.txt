@@ -1,0 +1,16 @@
+C:\Users\Ayttekao\Desktop\ALL\Chislak\Chislaki4\Chislaki4\bin\Debug\net5.0\Chislaki4.exe
+C:\Users\Ayttekao\Desktop\ALL\Chislak\Chislaki4\Chislaki4\bin\Debug\net5.0\Chislaki4.deps.json
+C:\Users\Ayttekao\Desktop\ALL\Chislak\Chislaki4\Chislaki4\bin\Debug\net5.0\Chislaki4.runtimeconfig.json
+C:\Users\Ayttekao\Desktop\ALL\Chislak\Chislaki4\Chislaki4\bin\Debug\net5.0\Chislaki4.runtimeconfig.dev.json
+C:\Users\Ayttekao\Desktop\ALL\Chislak\Chislaki4\Chislaki4\bin\Debug\net5.0\Chislaki4.dll
+C:\Users\Ayttekao\Desktop\ALL\Chislak\Chislaki4\Chislaki4\bin\Debug\net5.0\ref\Chislaki4.dll
+C:\Users\Ayttekao\Desktop\ALL\Chislak\Chislaki4\Chislaki4\bin\Debug\net5.0\Chislaki4.pdb
+C:\Users\Ayttekao\Desktop\ALL\Chislak\Chislaki4\Chislaki4\obj\Debug\net5.0\Chislaki4.csproj.AssemblyReference.cache
+C:\Users\Ayttekao\Desktop\ALL\Chislak\Chislaki4\Chislaki4\obj\Debug\net5.0\Chislaki4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayttekao\Desktop\ALL\Chislak\Chislaki4\Chislaki4\obj\Debug\net5.0\Chislaki4.AssemblyInfoInputs.cache
+C:\Users\Ayttekao\Desktop\ALL\Chislak\Chislaki4\Chislaki4\obj\Debug\net5.0\Chislaki4.AssemblyInfo.cs
+C:\Users\Ayttekao\Desktop\ALL\Chislak\Chislaki4\Chislaki4\obj\Debug\net5.0\Chislaki4.csproj.CoreCompileInputs.cache
+C:\Users\Ayttekao\Desktop\ALL\Chislak\Chislaki4\Chislaki4\obj\Debug\net5.0\Chislaki4.dll
+C:\Users\Ayttekao\Desktop\ALL\Chislak\Chislaki4\Chislaki4\obj\Debug\net5.0\ref\Chislaki4.dll
+C:\Users\Ayttekao\Desktop\ALL\Chislak\Chislaki4\Chislaki4\obj\Debug\net5.0\Chislaki4.pdb
+C:\Users\Ayttekao\Desktop\ALL\Chislak\Chislaki4\Chislaki4\obj\Debug\net5.0\Chislaki4.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumMeth4", "NumMeth4\NumMeth4.csproj", "{5F64AF54-3445-48B3-A86C-C411F3E213D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F64AF54-3445-48B3-A86C-C411F3E213D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F64AF54-3445-48B3-A86C-C411F3E213D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F64AF54-3445-48B3-A86C-C411F3E213D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F64AF54-3445-48B3-A86C-C411F3E213D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {625C6D81-71D1-4C63-A7BB-5E871F430976}
+	EndGlobalSection
+EndGlobal
